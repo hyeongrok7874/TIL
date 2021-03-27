@@ -38,4 +38,4 @@
 > untracked 상태 : 깃이 추적하고 있지 않는 파일(한 번도 버전 관리를 하지 않은 파일)<br>
 > modified 상태 : 수정된 상태<br>
 > unmodified 상태 : 수정되지 않은 상태<br>
-> staged 상태 :  커밋 직전 단계
+> staged 상태 : 커밋 직전 단계
