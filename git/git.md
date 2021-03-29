@@ -18,6 +18,7 @@
 > git log : 저장소에 저장된 버전 확인<br>
 > git log --stat : 커밋에 관련된 파일까지 함께 살펴보기 <br>
 > (q로 로그 화면을 빠져 나올 수 있다)<br>
+> 
 > git status : 깃 상태 확인<br>
 >> In branch master : 현재 master 브랜치에 있다<br>
 >> No commits yet : 아직 커밋한 파일이 없다<br>
@@ -39,3 +40,4 @@
 > modified 상태 : 수정된 상태<br>
 > unmodified 상태 : 수정되지 않은 상태<br>
 > staged 상태 : 커밋 직전 단계
+
