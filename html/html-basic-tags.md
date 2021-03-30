@@ -16,6 +16,27 @@
 <title>제목</title>
 ```
 
+## \<head>
+
+브라우저에게 정보를 준다.
+
+```html
+<head>
+...
+</head>
+```
+
+## \<body>
+
+실제 브라우저에 표시될 내용
+
+```html
+<body>
+...
+</body>
+```
+
+
 ## \<h1>~\<h6>
 
 머리말. h1부터 순서대로 작아진다
@@ -25,6 +46,7 @@
 ```
 
 
+## \<p>
 
 문단을 p태그에 넣는다
 
@@ -66,10 +88,15 @@
 
 ## meta
 
-문자 세트 지정
+문자 세트를 비롯한 문서 정보 지정
 
 ```html
 <meta charset="utf-8">
+<meta name="Viewport" content="width=device-width,initial-scale=1.0"><!-- 모바일 기기 고려 -->
+<meta http-equiv="X-UA-Compatible" content="ie=edge"><!-- 인터넷 익스플로러 고려 -->
+<meta name="keywords" content="______"><!-- 키워드 -->
+<meta name="description" content="______"><!-- 설명 -->
+<meta name="author" content="______"><!-- 소유자 또는 제작자 -->
 ```
 
 ## \<a>
@@ -88,3 +115,4 @@
 ```html
 <html lang="ko">
 ```
+
