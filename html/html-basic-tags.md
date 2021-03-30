@@ -66,5 +66,25 @@
 
 ## meta
 
+문자 세트 지정
+
 ```html
-<meta >
+<meta charset="utf-8">
+```
+
+## \<a>
+
+하이퍼링크
+
+```html
+<a href = "가고 싶은 주소">내용</a>
+<a href = "가고 싶은 주소" target = "_black">새 탭에서 열기</a>
+```
+
+## \<html>
+
+웹 문서의 시작을 알린다.
+
+```html
+<html lang="ko">
+```
