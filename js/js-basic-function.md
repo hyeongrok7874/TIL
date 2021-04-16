@@ -39,3 +39,11 @@ document.write("출력할 내용");
 ```js
 console.log("콘솔에 출력할 내용");
 ```
+
+## parseInt()
+
+> 프롬프트 창에 입력한 값을 정수로 바꾸는 함수
+
+```js
+parseInt();
+```
