@@ -8,7 +8,7 @@ document.getElementById("Id 이름");
 
 > DOM 요소를 id 선택자로 접근하는 함수
 
-## getElementByClassName()
+## getElementsByClassName()
 
 ```js
 document.getElementsByClassName("클래스 이름");
