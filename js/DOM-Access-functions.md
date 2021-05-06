@@ -1,4 +1,4 @@
-# DOM Functions
+# DOM Access Functions
 
 ## getElementById()
 
@@ -36,7 +36,7 @@ document.querySelector("이름");
 ## querySelectorAll()
 
 ```js
-document.querySelector("이름");
+document.querySelectorAll("이름");
 ```
 
 > DOM 요소를 다양한 방법으로 찾아주는 함수<br>
