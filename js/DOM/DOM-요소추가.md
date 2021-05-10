@@ -29,3 +29,14 @@ document.body.appendChild(newP);
 ```
 
 > newP 노드를 body 노드의 자식 노드로 추가하였다.
+
+## createAttribute()
+
+```js
+let attr = document.createAttribute("class");
+attr.value = "accent";
+```
+
+> (괄호) 안에 추가할 속성 이름을 지정한다. <br>
+> 여기에서는 새로운 class 속성 노드를 만들어 attr에 저장하였다. <br>
+> attr.value로 attr 속성 값을 "accent"로 지정하였다.
