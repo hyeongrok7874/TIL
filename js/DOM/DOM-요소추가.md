@@ -49,10 +49,4 @@ newP.setAttributeNode(attr);
 
 > \<p>에 class="accent" 속성이 추가된다.
 
-## hasChildNodes()
 
-```js
-document.querySelectorAll("p")[0].hasChildNodes();
-```
-
-> 자식 노드를 확인한다.
