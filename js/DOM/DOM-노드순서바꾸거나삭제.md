@@ -48,3 +48,9 @@ nameList.insertBefore(nameList.children[2], nameList.children[0]);
 ## removeChild()
 
 ```js
+let firstDel = document.querySelectorAll(".del")[0];
+let firstP = document.querySelectorAll("p")[0];
+firstP.removeChild(firstDel);
+```
+
+> 특정 노드를 삭제 할 수 있다.
