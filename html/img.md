@@ -25,3 +25,4 @@
     <img src="파일 경로 또는 파일 링크">
     <figcaption>설명 글</figcaption>
 </figure>
+```
