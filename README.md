@@ -12,9 +12,9 @@
 
 ## 바로가기
 
-> - [git](https://github.com/hyeongrok7874/TIL/tree/main/git)
-> - [terminal](https://github.com/hyeongrok7874/TIL/tree/main/terminal)
-> - [html](https://github.com/hyeongrok7874/TIL/tree/main/html)
-> - [css](https://github.com/hyeongrok7874/TIL/tree/main/css)
-> - [ts](https://github.com/hyeongrok7874/TIL/tree/main/Ts)
-> - [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
+- [git](https://github.com/hyeongrok7874/TIL/tree/main/git)
+- [terminal](https://github.com/hyeongrok7874/TIL/tree/main/terminal)
+- [html](https://github.com/hyeongrok7874/TIL/tree/main/html)
+- [css](https://github.com/hyeongrok7874/TIL/tree/main/css)
+- [ts](https://github.com/hyeongrok7874/TIL/tree/main/Ts)
+- [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
