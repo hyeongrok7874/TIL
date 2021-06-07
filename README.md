@@ -17,4 +17,8 @@
 - [html](https://github.com/hyeongrok7874/TIL/tree/main/html)
 - [css](https://github.com/hyeongrok7874/TIL/tree/main/css)
 - [ts](https://github.com/hyeongrok7874/TIL/tree/main/Ts)
+<<<<<<< HEAD
 - [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
+=======
+- [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
+>>>>>>> 86d31c272f873da291c79e7f2901d8f33318e988
