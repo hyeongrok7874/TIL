@@ -19,4 +19,3 @@
 - [css](https://github.com/hyeongrok7874/TIL/tree/main/css)
 - [ts](https://github.com/hyeongrok7874/TIL/tree/main/Ts)
 - [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
-- [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
