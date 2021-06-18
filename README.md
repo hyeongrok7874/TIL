@@ -23,4 +23,4 @@
 - [ts](https://github.com/hyeongrok7874/TIL/tree/main/Ts)
 - [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
 - [web](https://github.com/hyeongrok7874/TIL/tree/main/web)
-- [DB](https://github.com/hyeongrok7874/TIL/tree/main/DB)# Web-Tech-practice
+- [DB](https://github.com/hyeongrok7874/TIL/tree/main/DB)
