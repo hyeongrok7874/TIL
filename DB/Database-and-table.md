@@ -8,5 +8,5 @@
 
 ## Database and table
 
-> 하나의 DB에는 여러개의 table이 존재할 수 있다
+하나의 DB에는 여러개의 table이 존재할 수 있다
 
