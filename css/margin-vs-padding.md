@@ -2,7 +2,7 @@
 
 ## margin
 
-- margin CSS 속성은 요소의 네 방향 바깥 여백 영역을 설정합니다. 
+- margin CSS 속성은 요소의 네 방향 바깥 여백 영역을 설정합니다.
 - margin-top, margin-right, margin-bottom, margin-left의 단축 속성입니다.
 - 위와 아래 여백은 대체 요소가 아닌 \<span>, \<code> 등 인라인 요소에선 아무 효과도 없습니다.
 
