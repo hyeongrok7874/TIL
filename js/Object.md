@@ -169,5 +169,21 @@ let i = 0;
 
 let obh = {};
 
-obh[prefix + '-' + ++i] = i;
+obh[prefix + '-' + ++i] = i; // prop-1: 1
+```
+
+### 메서드 축약 표현
+
+ES6에서는 메서드를 정의할 때 function 키워드를 생략한 축약 표현을 사용할 수 있다.
+
+```js
+const obj = {
+    name: 'Lee',
+
+    sayHi(){
+        console.log('Hi! ' + this.name);
+    }
+}
+
+obj.sayHi(); // Hi! Lee
 ```
