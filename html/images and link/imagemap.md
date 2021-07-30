@@ -35,18 +35,19 @@
 
 ### rel
 
-현재 문서와 링크 문서 사이의 관계를 지정합니다.<br>
->속성 값 : Iternate, bookmark, help, license, next, nofollow, noreferer, prefetch, prev, search, tag
+현재 문서와 링크 문서 사이의 관계를 지정합니다.
+
+- 속성 값 : Iternate, bookmark, help, license, next, nofollow, noreferer, prefetch, prev, search, tag
 
 ### shape 
 
-링크로 사용할 영역의 형태를 지정합니다.<br>
-> 속성 값 : defaul, rect, circle, poly
+링크로 사용할 영역의 형태를 지정합니다.
+-  속성 값 : defaul, rect, circle, poly
 
 ### target
 
-링크를 표시할 대상을 지정합니다.<br>
-> 속성 값 : _blank, _parent, _self, _top, 프레임 이름
+링크를 표시할 대상을 지정합니다.
+- 속성 값 : _blank, _parent, _self, _top, 프레임 이름
 
 ### type
 
