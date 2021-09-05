@@ -8,3 +8,4 @@ Node.js는 Chrome V8 JavaScript 엔진으로 빌드 된 JavaScript 런타임이�
 - Node.js는 웹서버와 같이 확장성 있는 네트워크 프로그램을 제작하기 위해 만들어졌다.
 
 내장 HTTP 서버 라이브러리를 포함하고 있어 웹 서버에서 별도 소프트웨어 없이 동작이 가능하다
+
