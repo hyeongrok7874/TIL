@@ -19,7 +19,7 @@
 - [git](https://github.com/hyeongrok7874/TIL/tree/main/git)
 - [terminal](https://github.com/hyeongrok7874/TIL/tree/main/terminal)
 - [html](https://github.com/hyeongrok7874/TIL/tree/main/html)
-- [css](https://github.com/hyeongrok7874/TIL/tree/main/css)
+- [Styles](https://github.com/hyeongrok7874/TIL/tree/main/css)
 - [JavaScript](https://github.com/hyeongrok7874/TIL/tree/main/JavaScript)
 - [TypeScript](https://github.com/hyeongrok7874/TIL/tree/main/TypeScript)
 - [server](https://github.com/hyeongrok7874/TIL/tree/main/server)
