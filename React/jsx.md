@@ -2,6 +2,8 @@
 
 JavaScript를 확장한 문법
 
+JSX는 React “엘리먼트(element)” 를 생성합니다
+
 ## jsx에 표현식 포함하기
 
 JSX의 중괄호 안에는 유효한 모든 JavaScript 표현식을 넣을 수 있습니다
