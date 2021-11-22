@@ -34,3 +34,4 @@
   - 클라이언트는 일반적으로 웹 브라우저를 의미한다.
 - web server의 예
   - EX) Apache Server, Nginx, IIS(Windows 전용 Web 서버) 등
+- 사용자는 상황, 시간, 요청 등에 따라 달라지는 웹 페이지를 보게 된다
