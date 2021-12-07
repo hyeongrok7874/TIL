@@ -16,10 +16,11 @@
 
 ## 바로가기
 
+- [AWS](http://github.com/hyeongrok7874/TIL/trre/main/AWS)
 - [DB](https://github.com/hyeongrok7874/TIL/tree/main/DB)
+- [DevOps](https://github.com/hyeongrok7874/TIL/tree/main/infra)
 - [git](https://github.com/hyeongrok7874/TIL/tree/main/git)
 - [html](https://github.com/hyeongrok7874/TIL/tree/main/html)
-- [infra](https://github.com/hyeongrok7874/TIL/tree/main/infra)
 - [IT](https://github.com/hyeongrok7874/TIL/tree/main/IT)
 - [Java](https://github.com/hyeongrok7874/TIL/tree/main/Java)
 - [JavaScript](https://github.com/hyeongrok7874/TIL/tree/main/JavaScript)
