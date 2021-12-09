@@ -66,7 +66,7 @@ Hello.defaultProps = {
 
 ## props.chidren
 
-태그 사이의 컴포넌트들을 보이게 하기 위해서는 태그에서 props.childern을 렌더링 해야한다
+태그 사이의 컴포넌트들을 보이게 하기 위해서는 태그에서 props.children을 렌더링 해야한다
 
 ```jsx
 const Wrapper = ({children}) => {
