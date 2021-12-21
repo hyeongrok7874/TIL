@@ -1,5 +1,19 @@
 # State and Lifecycle
 
+## state
+
+컴포넌트의 동적인 값
+
+컴포넌트에서 state는 컴포넌트가 살아있는 동안 변화가 가능한 객체
+
+props는 탑다운 방식으로 내려온 읽기 전용의 데이터의 느낌이라면, state는 컴포넌트가 소유하고 있는 고유의 값
+
+state는 항상 초기 값이 있어야 한다
+
+setState를 통하여 state를 렌더링할 수 있다
+
+## lifecycle
+
 이전의 시계 예제를 다시 살펴보자
 
 ```js
