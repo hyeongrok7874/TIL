@@ -53,7 +53,7 @@ useState 에서는 문자열이 아니라 객체 형태의 상태를 관리해�
 리액트 상태에서 객체를 수정해야 할때에는
 
 ```jsx
-input[name] = value'
+input[name] = value
 ```
 
 이런식으로 직접 수정하면 안된다
