@@ -31,4 +31,3 @@ const useSetInterval = (callback: () => void, delay: number | null) => {
 
 export default useSetInterval;
 ```
-
