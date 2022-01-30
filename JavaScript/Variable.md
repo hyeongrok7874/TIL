@@ -23,6 +23,7 @@ let variableName = value;
 ## const
 
 const : 상수값을 선언할 때 사용한다.(재할당이 금지된다.)
+
 - const 키워드를 사용해 선언한 변수에 할당한 객체는 변경할 수 있다.
 
 ```js
@@ -30,6 +31,7 @@ const variableName = value;
 ```
 
 ## 변수 호이스팅
+
 - 변수 선언이 소스코드가 한 줄씩 순차적으로 실행되는 시점, 즉 런타임이 아니라 그 이전 단계에서 먼저 실행된다.
 - 모든 식별자(변수, 함수, 클래스 등)는 호이스팅된다.(var, let, const, function, function*, class)
 
